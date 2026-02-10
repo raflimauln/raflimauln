@@ -1,4 +1,4 @@
-#about my focus or my exploring:<br>
+About my focus or my exploring:<br>
 I’m deeply focused on optimizing the user experience to make features as intuitive as possible, though I prefer to avoid the generic 'AI-generated' aesthetic. I work across the full stack—currently specializing in Laravel and React—and I’m looking forward to expanding my toolkit with Golang and Next.js.<br><br>translate:<br>Fokus utama saya adalah mengoptimalkan kemudahan fitur bagi pengguna, namun saya cenderung menghindari estetika yang terlihat kaku seperti buatan AI. Sebagai pengembang yang bergerak di frontend maupun backend, saat ini saya sedang mendalami Laravel dan React, serta berencana untuk beralih ke Golang dan Next.js di masa mendatang.
 
 
